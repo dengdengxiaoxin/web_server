@@ -1,0 +1,14 @@
+# ninja log v5
+0	319	1655974555451451719	CMakeFiles/web_server.dir/main.cpp.o	1e65b8f78e6ede59
+0	355	1655974555487455143	CMakeFiles/web_server.dir/web/web.cpp.o	99d24df24f467f7a
+2	267	1655787230689250463	CMakeFiles/web_server.dir/socket/socket_server.cpp.o	28c314093c988c41
+1	524	1655801867984288165	CMakeFiles/web_server.dir/http_conn/http_conn.cpp.o	9e47d0c4c78e8c1e
+0	16	1656148035143353027	build.ninja	c25cb73012a370f2
+0	82	1655979372219159373	web_server	3336e443cfb5a3f1
+2	336	1655787230761240273	CMakeFiles/web_server.dir/sql_conn/sql_connection_pool.cpp.o	6b46dd481aecb84e
+1	336	1655801867796344256	CMakeFiles/web_server.dir/signal/signal_about.cpp.o	8a77564d43bf1ec3
+1	298	1655787230721245935	CMakeFiles/web_server.dir/log/log.cpp.o	fb7fceb94cedc748
+2	25	1656148035143353027	build.ninja	c25cb73012a370f2
+0	619	1656148035767193745	CMakeFiles/web_server.dir/http_conn/http_conn.cpp.o	9e47d0c4c78e8c1e
+619	729	1656148035875166177	web_server	3336e443cfb5a3f1
+1	134	1656492826742536908	web_server	3336e443cfb5a3f1

@@ -1,0 +1,6 @@
+2022-06-26 16:48:21.769673 [info]: client(192.168.111.7:5820) is connected
+2022-06-26 16:48:21.777867 [info]: client(192.168.111.7:6332) is connected
+2022-06-26 16:48:39.306437 [info]: client(192.168.111.7:6332) is disconnected
+2022-06-26 16:48:42.325413 [info]: client(192.168.111.7:6844) is connected
+2022-06-26 16:48:59.307731 [info]: client(192.168.111.7:6844) is disconnected
+2022-06-26 16:49:09.308210 [info]: client(192.168.111.7:5820) is disconnected
